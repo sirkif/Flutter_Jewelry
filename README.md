@@ -10,6 +10,6 @@ Project Flutter Jewelry.
 ### OnBoarding Screen.
 <div align="center" width="100%">
 
- <img width="30%" src="https://github.com/adamkif/Flutter_Circular_Progress_Bar/blob/master/Screenshot/OnBoarding.png"
+ <img width="30%" src="https://github.com/adamkif/Flutter_Jewelry/blob/master/Screenshot/OnBoarding.png"
       alt="Circular Progress Bar">
 </div>
